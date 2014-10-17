@@ -1,12 +1,13 @@
 {
   "name": "zero-socket",
   "version": "0.0.1",
-  "description" : "zero module",
-  "zero" : {
-    "dependencies" : {
-      "session" : "zero-session^0.0.1",
-      "bus" : "zero-bus^0.0.1"
-    }
+  "description": "zero module",
+  "zero": {
+    "dependencies": {
+      "session": "^0.0.1",
+      "bus": "^0.0.1"
+    },
+    "name": "socket"
   },
-  "author" : "jiamiu"
+  "author": "jiamiu"
 }
