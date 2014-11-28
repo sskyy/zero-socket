@@ -1,7 +1,10 @@
 {
   "name": "zero-socket",
-  "version": "0.0.5",
-  "description": "zero module",
+  "version": "0.0.6",
+  "keywords": [
+    "zero module"
+  ],
+  "description": "Provide a way to use socket as easy as use express router handler.",
   "zero": {
     "dependencies": {
       "session": "^0.0.1",
